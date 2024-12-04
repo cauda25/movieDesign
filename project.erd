@@ -4,8 +4,8 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -340,
-    "scrollLeft": -574.7607,
+    "scrollTop": -261,
+    "scrollLeft": -627.7607,
     "zoomLevel": 0.73,
     "show": 431,
     "database": 4,
@@ -203,15 +203,15 @@
           "sCK9XokmAVXBeAp2vE6we"
         ],
         "ui": {
-          "x": 1132.6328,
-          "y": 471.1799,
+          "x": 1188.7972,
+          "y": 442.4128,
           "zIndex": 20,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1733301088822,
+          "updateAt": 1733301665422,
           "createAt": 1733294098763
         }
       },
@@ -1182,7 +1182,7 @@
         "tableId": "aTJC6AGgdJB9C1V5rCnCV",
         "name": "리뷰번호",
         "comment": "",
-        "dataType": "",
+        "dataType": "rno",
         "default": "",
         "options": 10,
         "ui": {
@@ -1193,7 +1193,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1733295362109,
+          "updateAt": 1733301673023,
           "createAt": 1733295233359
         }
       },
@@ -1718,8 +1718,8 @@
           "columnIds": [
             "YP_B3V8QZ9UKtksovchsI"
           ],
-          "x": 1132.6328,
-          "y": 621.1799,
+          "x": 1188.7972,
+          "y": 592.4128000000001,
           "direction": 1
         },
         "meta": {
@@ -1942,8 +1942,8 @@
           "columnIds": [
             "sCK9XokmAVXBeAp2vE6we"
           ],
-          "x": 1132.6328,
-          "y": 521.1799,
+          "x": 1188.7972,
+          "y": 492.4128,
           "direction": 1
         },
         "meta": {
@@ -2359,7 +2359,8 @@
       -1,
       {
         "name": 1733295292236,
-        "options(primaryKey)": 1733295362108
+        "options(primaryKey)": 1733295362108,
+        "dataType": 1733301673021
       }
     ],
     "bONwpODfKwyEXE3Dk6bUo": [
